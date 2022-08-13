@@ -80,3 +80,10 @@ console.log("seventh -> " + fourteenthExample(144));
 function fourteenthExample(decNum4){
   return decNum4 / 12
 }
+
+console.log("eighth - > " + fifteenthExample("625", "25"));
+function fifteenthExample(decNum5, decNum6){
+  return decNum5 / decNum6;
+}
+
+// the end task
